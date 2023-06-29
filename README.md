@@ -24,7 +24,7 @@
 # Note: 
 - Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
 
-# Tests Passed:
+# Tests FulFilled:
 - Passed:You should have a main element with an id of main-doc.
 - Passed:You should have at least five section elements with a class of main-section.
 - Passed:All of your .main-section elements should be section elements.
