@@ -1,6 +1,7 @@
-# technical-document-page
+# Technical Document Page
 
-# Objective: Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks
+# Objective: 
+- Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks
 
 # Requirements:
 - You can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation)
